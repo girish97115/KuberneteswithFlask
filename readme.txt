@@ -1,7 +1,5 @@
 Flask app deployed on Kubernetes locally
 
-
- 
 Commands to run Kubernetes:
 
  cd hello-python/app
